@@ -1,9 +1,7 @@
 # Hotel-reservation-sytem
 Hotel Reservation System Database using Oracle SQL featuring schema design, views, indexes, triggers, procedures, and testing queries.
 
-# Hotel Reservation System Database
-
-## Overview
+## Summary
 
 A comprehensive Hotel Reservation System Database developed using Oracle SQL and PL/SQL. This project demonstrates database design, data integrity, query optimization, and business logic implementation through stored procedures, triggers, views, and indexes.
 
