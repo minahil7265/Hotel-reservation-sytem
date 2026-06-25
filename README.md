@@ -1,4 +1,4 @@
-# Hotel-reservation-sytem
+# Hotel-reservation-system
 Hotel Reservation System Database using Oracle SQL featuring schema design, views, indexes, triggers, procedures, and testing queries.
 
 ## Summary
